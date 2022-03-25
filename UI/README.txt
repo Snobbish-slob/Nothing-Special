@@ -1,0 +1,1 @@
+I just develop exploits and I aint gonna take the responsibility if your account gets banned and in the recent update Roblox added HWID ban so the cheats are morelikely to get caught so be cautious
