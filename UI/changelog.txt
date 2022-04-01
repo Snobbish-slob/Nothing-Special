@@ -1,5 +1,5 @@
 -HWID spoof added
 -Auto Attach now works without any problem
--Removed alot of unnecessary code, in simple words thats means OPTIMIZATIONS
+-Some HUGE OPTIMIZATIONS
 -Now the exploit can detect that the next update in Minor or Major
 -When roblox updates the API will also be updated automatically as soon as the patch comes out
