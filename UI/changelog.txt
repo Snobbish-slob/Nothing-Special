@@ -1,4 +1,4 @@
--HWID ban spoof added
+-HWID spoof added
 -Auto Attach now works without any problem
 -Alot of unnecessary code, in simple words thats means OPTIMIZATIONS
 -Now the exploit can detect that the next update in Minor or Major
