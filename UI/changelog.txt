@@ -5,4 +5,4 @@
 -Removed Light Theme
 -Added a better and customized Monaco
 -Theme is now fixed to dark theme
--And as usual optimizations
+-More optimizations
