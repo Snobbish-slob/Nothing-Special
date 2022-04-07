@@ -6,3 +6,4 @@
 -Added a better and customized Monaco
 -Theme is now fixed to dark theme
 -More optimizations
+-and more things that I cant remember
