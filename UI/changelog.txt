@@ -1,9 +1,0 @@
--Removed AceEditor
--Removed the option to choose between light and dark theme
--Removed the option to switch between Scintilla and AceEditor/Monaco
--Removed Scintilla
--Removed Light Theme
--Added a better and customized Monaco
--Theme is now fixed to dark theme
--More optimizations
--and more things that I cant remember
